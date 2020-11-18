@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1098541046943",
+    "firebase_url": "https://testcrewitup.firebaseio.com",
+    "project_id": "testcrewitup",
+    "storage_bucket": "testcrewitup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098541046943:android:f2565cd557a772cb7816aa",
+        "android_client_info": {
+          "package_name": "test.crew.up"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098541046943-3th9ba0l6170snsqfuua7lb59305oeb9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "test.crew.up",
+            "certificate_hash": "a31e0f5502ccd27723e49106a971454025be08b6"
+          }
+        },
+        {
+          "client_id": "1098541046943-grui7sf99sc28rn4jm9f987bflvvvde2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5U5sZkNQec6JkeiJTo0yzbBDEsLmSTYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098541046943-grui7sf99sc28rn4jm9f987bflvvvde2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

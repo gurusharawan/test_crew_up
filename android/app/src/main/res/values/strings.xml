@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Crew It Up</string>
+    <string name="facebook_app_id">370250657526175</string>
+    <string name="fb_login_protocol_scheme">fb370250657526175</string>
+</resources>
